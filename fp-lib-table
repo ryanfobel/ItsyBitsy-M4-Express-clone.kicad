@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ItsyBitsy M4-clone")(type Legacy)(uri "C:/Users/Ryan/Documents/dev/eagle/Adafruit-ItsyBitsy-M4-Express-PCB/kicad/ItsyBitsy M4.mod")(options "")(descr ""))
+)
